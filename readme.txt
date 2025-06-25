@@ -3,7 +3,7 @@ TripTuner - Travel Planning Application Using GPT Model
 
 TripTuner is a Kotlin-based Android application designed to help users generate personalised travel itineraries. The app allows users to input a destination and, with the help of a GPT model, generates an itinerary for the location. The app also allows users to manually add budget amount, companions, and other preferences, and saves the final itinerary for future reference.
 
-This project has been developed by Mohammed Ajward Yoonus.
+This project has been developed by Tanish sahu.
 
 Tools and Applications Required
 -------------------------------
